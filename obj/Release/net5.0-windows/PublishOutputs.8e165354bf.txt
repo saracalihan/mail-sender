@@ -1,0 +1,5 @@
+C:\Users\AlihanSarac\Desktop\email-sender\email-sender.exe
+C:\Users\AlihanSarac\Desktop\email-sender\email-sender.dll
+C:\Users\AlihanSarac\Desktop\email-sender\email-sender.deps.json
+C:\Users\AlihanSarac\Desktop\email-sender\email-sender.runtimeconfig.json
+C:\Users\AlihanSarac\Desktop\email-sender\email-sender.pdb

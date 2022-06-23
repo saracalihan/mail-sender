@@ -1,0 +1,5 @@
+C:\Users\AlihanSarac\Desktop\Yeni klasör (2)\email-sender.exe
+C:\Users\AlihanSarac\Desktop\Yeni klasör (2)\email-sender.dll
+C:\Users\AlihanSarac\Desktop\Yeni klasör (2)\email-sender.deps.json
+C:\Users\AlihanSarac\Desktop\Yeni klasör (2)\email-sender.runtimeconfig.json
+C:\Users\AlihanSarac\Desktop\Yeni klasör (2)\email-sender.pdb
